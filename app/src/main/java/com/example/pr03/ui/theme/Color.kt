@@ -17,3 +17,8 @@ val colorOnboardDescription = Color(0xFF939396)
 val colorBtn = Color(0xFF1A6FEE)
 
 val notColorBtn = Color(0xFFC9D4FB)
+
+val textF = Color(0xFFF5F5F9)
+val InputStroke = Color(0xFFEBEBEB)
+
+val plaseH = Color(0xFF000000)
